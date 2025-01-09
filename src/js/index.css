@@ -1,0 +1,21 @@
+.app{
+    text-align: center;
+    margin-top: 250px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.box{
+    display: inline-block;
+    line-height: 30px;
+    background: #4b4646;
+    color: red;
+    padding: 80px;
+    margin: 10px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+    font-size: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-shadow: 3px 3px 5px 2px #222222;
+    font-weight: bold;
+}
